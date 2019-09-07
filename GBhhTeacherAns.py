@@ -1,3 +1,7 @@
+#    This code is based on teacher's ways to search in HH.ru for jobs
+#    It is using xpath
+#    Prints data onto screen and into a file
+
 import requests
 from lxml import html
 
