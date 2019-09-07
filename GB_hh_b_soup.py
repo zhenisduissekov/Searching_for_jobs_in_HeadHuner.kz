@@ -1,3 +1,7 @@
+#   Beautiful soup example done in class
+#   Searchin for job key word in HH.ru and output Title, Link, Salary onto screen
+#
+
 import requests
 from bs4 import BeautifulSoup
 
